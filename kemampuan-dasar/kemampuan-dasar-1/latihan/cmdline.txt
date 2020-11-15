@@ -1,0 +1,222 @@
+ty@Typc:~$ cd ~
+ty@Typc:~$ ls -lia
+total 53460
+1836192 drwxr-xr-x  49 ty   ty       4096 Nov 15 08:47 .
+1835009 drwxr-xr-x   3 root root     4096 Sep  3 03:48 ..
+1843058 drwxr-x---   2 ty   ty       4096 Nov  2 04:15 .android
+1851923 -rw-rw-r--   1 ty   ty        690 Okt  2 09:58 arkadem.sqbpro
+1836108 -rw-r--r--   1 ty   ty       3072 Okt  2 09:58 arkademy
+2359903 drwxrwxr-x   4 ty   ty       4096 Okt  7 11:05 .audacity-data
+1835426 -rw-------   1 ty   ty      33877 Nov 15 08:39 .bash_history
+1836195 -rw-r--r--   1 ty   ty        220 Sep  3 03:48 .bash_logout
+1836194 -rw-r--r--   1 ty   ty       3968 Sep  5 12:25 .bashrc
+1835393 drwx------  43 ty   ty       4096 Nov 12 12:50 .cache
+1836235 drwx------   3 ty   ty       4096 Sep  3 04:40 .compiz
+1835408 drwx------  33 ty   ty       4096 Nov 10 13:48 .config
+1891290 -rw-rw-r--   1 ty   ty        785 Nov 14 06:39 .dbshell
+1835400 drwxr-xr-x   2 ty   ty       4096 Nov  7 21:52 Desktop
+1835404 drwxr-xr-x  11 ty   ty       4096 Nov 10 13:36 Documents
+1835401 drwxr-xr-x  12 ty   ty       4096 Nov 12 13:15 Downloads
+1836193 -rw-r--r--   1 ty   ty       8980 Sep  3 03:48 examples.desktop
+1835484 drwx------   2 ty   ty       4096 Nov 15 08:16 .gconf
+1901296 drwxr-xr-x  24 ty   ty       4096 Nov 12 13:11 .gimp-2.8
+1869157 drwxrwxr-x   7 ty   ty       4096 Nov 14 05:49 .git
+1864230 -rw-rw-r--   1 ty   ty        161 Nov 10 05:16 .gitconfig
+1843279 -rw-rw-r--   1 ty   ty     269632 Okt 11 15:39 .gitignore
+1860054 -rw-r-----   1 ty   ty          0 Nov  4 10:35 .gksu.lock
+1840808 drwx------   3 ty   ty       4096 Sep  3 05:17 .gnome
+2373349 drwx------   3 ty   ty       4096 Nov 15 08:17 .gnome2
+2374453 drwx------   2 ty   ty       4096 Okt 10 23:41 .gnome2_private
+1835422 drwx------   3 ty   ty       4096 Nov 15 07:48 .gnupg
+1841285 -rw-rw-r--   1 ty   ty      40924 Nov 11 09:47 hs_err_pid1516.log
+1841216 -rw-rw-r--   1 ty   ty      42740 Nov 14 03:51 hs_err_pid1526.log
+1842478 -rw-rw-r--   1 ty   ty      45764 Nov 15 03:52 hs_err_pid1527.log
+1844052 -rw-rw-r--   1 ty   ty      39565 Nov 10 12:07 hs_err_pid1563.log
+1843109 -rw-rw-r--   1 ty   ty      38388 Nov 14 17:09 hs_err_pid1600.log
+1835334 -rw-rw-r--   1 ty   ty      39485 Nov 14 04:40 hs_err_pid1691.log
+1841423 -rw-rw-r--   1 ty   ty      40109 Nov 13 02:03 hs_err_pid1693.log
+1840978 -rw-rw-r--   1 ty   ty      41239 Nov 13 05:47 hs_err_pid1699.log
+1835458 -rw-------   1 ty   ty      24490 Nov 15 07:48 .ICEauthority
+2367549 drwxrwxr-x   3 ty   ty       4096 Okt 18 03:22 .java
+1835418 drwx------   4 ty   ty       4096 Sep 12 05:41 .local
+1836081 drwxrwxr-x   2 ty   ty       4096 Nov 14 00:06 MEGAsync Downloads
+2122080 drwxrwxr-x   3 ty   ty       4096 Nov 14 04:32 mongodb-linux-i686-3.2.4
+1890681 -rw-rw-r--   1 ty   ty   53733843 Nov 14 04:32 mongodb-linux-i686-3.2.4.tgz
+1843529 -rw-------   1 ty   ty          0 Nov 14 04:53 .mongorc.js
+1835616 drwx------   5 ty   ty       4096 Sep  3 11:03 .mozilla
+1835405 drwxr-xr-x   2 ty   ty       4096 Sep  3 11:01 Music
+2359300 drwx------   3 ty   ty       4096 Okt 12 12:33 .mysql
+1868691 drwxrwxr-x   2 ty   ty       4096 Sep 11 04:08 .nano
+1887274 -rw-------   1 ty   ty        200 Nov 12 08:10 .netrc
+1863524 -rw-------   1 ty   ty        310 Nov  2 00:45 .node_repl_history
+1858122 drwxrwxr-x 277 ty   ty      12288 Nov 14 05:46 .npm
+1854316 drwxrwxr-x   2 ty   ty       4096 Nov  9 08:40 .npm-global
+1841808 -rw-------   1 ty   ty         18 Nov  9 08:50 .npmrc
+2097364 drwxrwxr-x   4 ty   ty       4096 Sep  5 12:26 .nvm
+2621498 drwxr-x---   6 ty   ty       4096 Okt  6 10:03 .openshot
+1835406 drwxr-xr-x   2 ty   ty       4096 Nov 10 13:37 Pictures
+1835726 drwx------   3 ty   ty       4096 Sep  3 04:46 .pki
+2373492 drwxrwxr-x   3 ty   ty       4096 Sep 24 03:47 Postman
+1900981 drwxrwxr-x   4 ty   ty       4096 Nov 12 03:18 praxis-academy
+2122101 drwxrwxr-x   5 ty   ty       4096 Nov 15 08:05 praxis-academy-1
+1836196 -rw-r--r--   1 ty   ty        655 Sep  3 03:48 .profile
+1853630 drwxrwxr-x  10 ty   ty       4096 Sep 30 10:26 project-5-gold-medal-metrics-start
+1835403 drwxr-xr-x   2 ty   ty       4096 Sep  3 11:01 Public
+1862149 -rw-------   1 ty   ty          0 Sep 12 05:52 .python_history
+1966131 drwxrwxr-x   3 ty   ty       4096 Nov  4 15:57 react-redux
+2374552 drwxr-xr-x   4 ty   ty       4096 Nov 12 08:09 snap
+1876881 -rw-------   1 ty   ty          0 Okt  3 05:21 .sqlite_history
+1837699 -rw-r--r--   1 ty   ty          0 Sep  3 04:25 .sudo_as_admin_successful
+1851578 -rw-------   1 ty   ty      12288 Okt 10 23:56 .swo
+1835402 drwxr-xr-x   2 ty   ty       4096 Sep  3 11:01 Templates
+1844296 -rw-------   1 ty   ty       3326 Sep 11 04:01 testkey
+1879046 -rw-r--r--   1 ty   ty        746 Sep 11 04:01 testkey.pub
+1901319 drwx------   3 ty   ty       4096 Nov 12 12:52 .thumbnails
+2120855 drwx------   6 ty   ty       4096 Okt 25 20:31 .thunderbird
+1900549 drwxrwxr-x   4 ty   ty       4096 Nov 10 05:45 udacity-git-course
+1835407 drwxr-xr-x   2 ty   ty       4096 Sep  3 11:01 Videos
+1835853 -rw-------   1 ty   ty       7737 Nov 15 08:47 .viminfo
+1838192 drwxrwxr-x   3 ty   ty       4096 Sep  3 04:46 .vscode
+2374569 drwxrwxr-x   5 ty   ty       4096 Okt 24 09:29 webapp-debuging-master
+1882783 drwxrwxr-x  20 ty   ty       4096 Nov 14 05:41 web-developer-bootcamp
+2368938 drwxrwxr-x   8 ty   ty       4096 Sep 14 16:23 webpack-course-v3
+1859193 -rw-rw-r--   1 ty   ty        262 Sep 29 22:06 .wget-hsts
+1856212 -rw-rw-r--   1 ty   ty      15989 Sep  5 12:44 wget-log
+1835396 -rw-------   1 ty   ty         49 Nov 15 07:48 .Xauthority
+2367540 drwxrwxr-x   4 ty   ty       4096 Okt 20 06:08 .xdman
+1835016 -rw-------   1 ty   ty         82 Nov 15 07:48 .xsession-errors
+1835033 -rw-------   1 ty   ty       1638 Nov 15 03:52 .xsession-errors.old
+2621518 drwx------   8 ty   ty       4096 Nov 10 13:48 .zoom
+
+ty@Typc:~$ cat > testfile
+ini adalah contoh penggunaan cat untuk membuat file
+ty@Typc:~$ cat testfile 
+ini adalah contoh penggunaan cat untuk membuat file
+ty@Typc:~$ cat testfile2
+cat: testfile2: No such file or directory
+ty@Typc:~$ cat > testfile2
+Test fungsi cat dengan 2 file
+ty@Typc:~$ cat testfile testfile2 > testfile3
+ty@Typc:~$ cat testfile3
+ini adalah contoh penggunaan cat untuk membuat file
+Test fungsi cat dengan 2 file
+ty@Typc:~$ sudo nano testfile3
+[sudo] password for hj: 
+Sorry, try again.
+[sudo] password for hj: 
+ty@Typc:~$ cat > filedelete\
+> file delete
+cat: delete: No such file or directory
+ty@Typc:~$ ls
+filedeletefile  kemampuan-dasar  link  README.md  testfile  testfile2  testfile3
+ty@Typc:~$ rm filedeletefile 
+ty@Typc:~$ ls
+kemampuan-dasar  link  README.md  testfile  testfile2  testfile3
+ty@Typc:~$ mv testfile3 testfile4
+ty@Typc:~$ ls
+kemampuan-dasar  link  README.md  testfile  testfile2  testfile4
+ty@Typc:~$ cat testfile4
+ini adalah contoh penggunaan cat untuk membuat file
+Test fungsi cat dengan 2 file
+ty@Typc:~$ mkdir testshell
+ty@Typc:~$ rmdir testshell/
+ty@Typc:~$ ls
+arkadem.sqbpro      hs_err_pid1693.log                  react-redux
+arkademy            hs_err_pid1699.log                  snap
+Desktop             MEGAsync Downloads                  Templates
+Documents           mongodb-linux-i686-3.2.4            testkey
+Downloads           mongodb-linux-i686-3.2.4.tgz        testkey.pub
+examples.desktop    Music                               udacity-git-course
+hs_err_pid1516.log  Pictures                            Videos
+hs_err_pid1526.log  Postman                             webapp-debuging-master
+hs_err_pid1527.log  praxis-academy                      web-developer-bootcamp
+hs_err_pid1563.log  praxis-academy-1                    webpack-course-v3
+hs_err_pid1600.log  project-5-gold-medal-metrics-start  wget-log
+hs_err_pid1691.log  public_html
+testfile  					testfile2  													testfile4
+ty@Typc:~$ whoami
+ty
+ty@Typc:~$ vmstat
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 4  0 553984 133856  28136 600048    2   70   211   194 1047 2032 41 10 47  2  0
+ty@Typc:~$ env
+NVM_RC_VERSION=
+XDG_VTNR=7
+LC_PAPER=id_ID.UTF-8
+LC_ADDRESS=id_ID.UTF-8
+XDG_SESSION_ID=c1
+XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/ty
+LC_MONETARY=id_ID.UTF-8
+CLUTTER_IM_MODULE=xim
+SESSION=ubuntu
+NVM_CD_FLAGS=
+GPG_AGENT_INFO=/home/ty/.gnupg/S.gpg-agent:0:1
+TERM=xterm-256color
+VTE_VERSION=4205
+XDG_MENU_PREFIX=gnome-
+SHELL=/bin/bash
+QT_LINUX_ACCESSIBILITY_ALWAYS_ON=1
+WINDOWID=79691786
+LC_NUMERIC=id_ID.UTF-8
+UPSTART_SESSION=unix:abstract=/com/ubuntu/upstart-session/1000/996
+GNOME_KEYRING_CONTROL=
+GTK_MODULES=gail:atk-bridge:unity-gtk-module
+NVM_DIR=/home/ty/.nvm
+USER=ty
+LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+QT_ACCESSIBILITY=1
+LC_TELEPHONE=id_ID.UTF-8
+XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+UNITY_HAS_3D_SUPPORT=true
+XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+SESSION_MANAGER=local/Typc:@/tmp/.ICE-unix/1317,unix/Typc:/tmp/.ICE-unix/1317
+DEFAULTS_PATH=/usr/share/gconf/ubuntu.default.path
+XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/usr/share/upstart/xdg:/etc/xdg
+UNITY_DEFAULT_PROFILE=unity
+DESKTOP_SESSION=ubuntu
+PATH=/home/ty/bin:/home/ty/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+QT_IM_MODULE=ibus
+QT_QPA_PLATFORMTHEME=appmenu-qt5
+LC_IDENTIFICATION=id_ID.UTF-8
+XDG_SESSION_TYPE=x11
+PWD=/home/ty
+JOB=unity-settings-daemon
+XMODIFIERS=@im=ibus
+GNOME_KEYRING_PID=
+LANG=en_US.UTF-8
+GDM_LANG=en_US
+MANDATORY_PATH=/usr/share/gconf/ubuntu.mandatory.path
+LC_MEASUREMENT=id_ID.UTF-8
+COMPIZ_CONFIG_PROFILE=ubuntu
+IM_CONFIG_PHASE=1
+GDMSESSION=ubuntu
+SESSIONTYPE=gnome-session
+GTK2_MODULES=overlay-scrollbar
+SHLVL=1
+HOME=/home/ty
+XDG_SEAT=seat0
+LANGUAGE=en_US
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+UPSTART_INSTANCE=
+UPSTART_EVENTS=xsession started
+XDG_SESSION_DESKTOP=ubuntu
+LOGNAME=ty
+COMPIZ_BIN_PATH=/usr/bin/
+DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-1yD61ftj7i
+XDG_DATA_DIRS=/usr/share/ubuntu:/usr/share/gnome:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+QT4_IM_MODULE=xim
+LESSOPEN=| /usr/bin/lesspipe %s
+INSTANCE=
+UPSTART_JOB=unity7
+XDG_RUNTIME_DIR=/run/user/1000
+DISPLAY=:0
+XDG_CURRENT_DESKTOP=Unity
+GTK_IM_MODULE=ibus
+LESSCLOSE=/usr/bin/lesspipe %s %s
+LC_TIME=id_ID.UTF-8
+LC_NAME=id_ID.UTF-8
+XAUTHORITY=/home/ty/.Xauthority
+_=/usr/bin/env
+OLDPWD=/home/ty/

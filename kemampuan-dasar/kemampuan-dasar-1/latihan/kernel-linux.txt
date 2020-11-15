@@ -1,0 +1,10 @@
+ty@Typc:~$ uname -srm
+Linux 4.15.0-118-generic i686
+
+Output di atas menunjukkan bahwa kernel Linux adalah 64-bit dan versinya adalah 4.15.0-54, di mana:
+
+4 – Versi Kernel.
+15 – Major Revision.
+0 – Minor Revision.
+118 – Patch number.
+generic – Informasi spesifik distribusi.

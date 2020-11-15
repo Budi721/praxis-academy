@@ -1,0 +1,26 @@
+Advanced option for Ubuntu
+Memory test (memtest86+)
+Memory test (memtest86+, serial console 115200)
+Windows 10 loader on ..
+
+Keterangan : 
+urutan booting pada linux : 
+1. BIOS: Basic Input/Output System merupakan interface level paling bawah yang menghubungkan antara komputer dan periperalnya. BIOS melakukan pengecekan integritas memori dan mencari instruksi pada? Master Boot Record (MBR) yang terdapat pada floppy drive atau harddisk.
+2. MBR menjalankan boot loader. Di linux, boot loader yang sering dipakai adalah LILO (Linux Loader) dan GRUB (GRand Unified Boot loader). Pada Red Hat dan Turunannya menggunakan GRUB sebagai boot loader.
+3. GRUB akan membaca label sistem operasi yang kernelnya akan dijalankan. Pada boot loader inilah sistem operasi mulai dipanggil. Untuk mengkonfigurasi file grub, buka filenya di /boot/grub/grub.conf
+4. Setelah itu, tanggung jawab untuk booting diserahkan ke kernel. Setelah itu, kernel akan menampilkan versi dari kernel yang dipergunakan, mengecek status SELinux, menegecek paritisi swap, mengecek memory, dan sebagainya
+5. Kernel yang dipanggil oleh bootloader kemudian menjalankan program init, yaitu proses yang menjadi dasar dari proses-proses yang lain. Ini dikenal dengan nama The First Process. Proses ini mengacu pada script yang ada di file /etc/rc.d/rc.sysinit.
+6. Program init kemudian menentukan jenis runlevel yang terletak pada file /etc/inittab. Berdasarkan pada run-level, script kemudian menjalankan berbagai proses lain yang dibutuhkan oleh sistem sehingga sistem dapat berfungsi dan digunakan. Runlevel adalah suatu parameter yang mengatur servis yang akan dijalankan misalnya single user, reboot, shutdown, dan sebagainya. Program yang mengatur runlevel ini adalah init yang terletak pada direktori /etc/inittab.
+
+Bagaimana Cara Kerja GRUB:
+1. Memanggil Primary Boot-Loader
+Primary boot-loader berisi program dengan ukuran lebih kecil dari 512 bytes karena diletakan pada MBR yang hanya berukuran sebesar 512 bytes, program ini kemudian memanggil secondary boot-loader.
+2. Memanggil Secondary Boot-Loader
+Seondary boot-loader kemudian membawa kita ke menu pilihan sistem operasi apa yang akan kita jalankan, GRUB menyediakan dua menu pilihan utama, yaitu pilihan menu sistem operasi dan mode boot-loader command.
+3. Memanggil Sistem Operasi Pada Posisi Partisi Tertentu
+Dalam memanggil sistem operasi, GRUB mendapat intruksi tertentu untuk memanggil sistem operasi tersebut. Intruksi ini bisa kita definisikan melalui konfigurasi GRUB, atau kita ketikan secara manual pada mode boot-loader command.
+
+GRUB memiliki “true command-bassed”, yang memiliki fleksibilitas sangat tinggi dalam proses sebelum kita masuk ke dalam sistem operasi tertentu. 
+GRUB Mendukung Mode Logical Block Addressing (LBA)
+LBA meletakan kode konversi pada firmware yang bertujuan untuk proses pencarian data tertentu pada disk, yang digunakan oleh hampir semua tipe SCSI.
+GRUB dapat membaca partisi ext2 fungsi ini memungkinkan GRUB untuk mengakses file konfigurasi, /boot/grub/grub.conf,setiap kali proses booting dilakukan.
